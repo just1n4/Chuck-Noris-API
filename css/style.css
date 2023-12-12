@@ -1,0 +1,35 @@
+h1 {
+    font-family: Rubik bubbles, sans-serif;
+    color: black;
+}
+
+main {
+    text-align: center;
+}
+
+input {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 10px 5px 10px 30px;
+    border-radius: 25px;
+    background: white;
+    box-shadow: 0px 4px 15px 0px black;
+    color: grey;
+    border: none;
+}
+
+.col {
+    padding: 20px;
+    border: 7px solid black;
+    font-family: Open Sans, sans-serif;
+    color: black;
+    opacity: 1;
+}
+
+#jokes {
+    background: black;
+}
+
+img {
+    height: 100px;
+}
